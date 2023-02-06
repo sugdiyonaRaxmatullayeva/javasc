@@ -13,6 +13,7 @@ console.log(text);
 
 
 let title = "mening ismim";
+console.log(title);
 let namee ="gulsevar";
 let  ago = "18" ;
 let data = `${title} ${namee} va men ${ago} yoshdaman`;
